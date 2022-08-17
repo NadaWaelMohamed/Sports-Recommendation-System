@@ -1,0 +1,216 @@
+<?xml version = "1.0"?>
+<Model name ="Sports">
+<block>
+<rule name ="rule1">
+
+<antecedent>
+<Running_sport>
+<value> Yes </value>
+</Running_sport>
+
+
+<contact_sports>
+<value> Yes </value>
+</contact_sports>
+
+<Ball_passing_type>
+<value> Throwing</value>
+</Ball_passing_type>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Basketball </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule2">
+
+<antecedent>
+<Running_sport>
+<value> Yes </value>
+</Running_sport>
+
+
+<contact_sports>
+<value> Yes </value>
+</contact_sports>
+
+<Ball_passing_type>
+<value> Kicking</value>
+</Ball_passing_type>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Football </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule3">
+
+<antecedent>
+<Running_sport>
+<value> Yes </value>
+</Running_sport>
+
+
+<contact_sports>
+<value> Yes </value>
+</contact_sports>
+
+
+<Ball_passing_type>
+<value> Throwing and Kicking</value>
+</Ball_passing_type>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Rugby </generally>
+</consequent>
+
+</rule>
+<rule name ="rule4">
+
+
+<antecedent>
+<Running_sport>
+<value> Yes </value>
+</Running_sport>
+
+
+<contact_sports>
+<value> No </value>
+</contact_sports>
+
+<participation_type>
+<value> Team</value>
+</participation_type>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Cricket </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule5">
+
+<antecedent>
+<Running_sport>
+<value> Yes </value>
+</Running_sport>
+
+
+<contact_sports>
+<value> No </value>
+</contact_sports>
+
+<participation_type>
+<value> Individual</value>
+</participation_type>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Tennis </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule6">
+
+<antecedent>
+<Running_sport>
+<value> No </value>
+</Running_sport>
+
+<playing_sociable>
+<value> Alone</value>
+</playing_sociable>
+
+<Like_water>
+<value> Yes </value>
+</Like_water>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Swimming </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule7">
+
+<antecedent>
+<Running_sport>
+<value> No </value>
+</Running_sport>
+
+<playing_sociable>
+<value> Alone</value>
+</playing_sociable>
+
+<Like_water>
+<value> No </value>
+</Like_water>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Tai-Chi </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule8">
+<antecedent>
+<Running_sport>
+<value> No </value>
+</Running_sport>
+
+<playing_sociable>
+<value> With Others</value>
+</playing_sociable>
+
+<Like_Music>
+<value> Yes </value>
+</Like_Music>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Ballroom Dancing </generally>
+</consequent>
+
+</rule>
+
+<rule name ="rule9">
+
+<antecedent>
+<Running_sport>
+<value> No </value>
+</Running_sport>
+
+<playing_sociable>
+<value>With Others</value>
+</playing_sociable>
+
+<Like_Music>
+<value> No </value>
+</Like_Music>
+
+</antecedent>
+
+<consequent>
+<generally> Sport is Table Tennis </generally>
+</consequent>
+
+</rule>
+</block>
+</Model>

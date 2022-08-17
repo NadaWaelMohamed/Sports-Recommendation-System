@@ -1,0 +1,11 @@
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\bin\Debug\SportRecommendationSystemWindowsForm.exe
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\bin\Debug\SportRecommendationSystemWindowsForm.pdb
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.csprojAssemblyReference.cache
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.Form1.resources
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.Properties.Resources.resources
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.csproj.GenerateResource.cache
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.exe
+C:\Users\mostafa gaber\Source\Repos\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.pdb
+C:\Users\Nada\OneDrive\Desktop\SportRecommendationSystem_DSSProject\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.exe
+C:\Users\Nada\OneDrive\Desktop\SportRecommendationSystem_DSSProject\SportRecommendationSystemWindowsForm\obj\Debug\SportRecommendationSystemWindowsForm.pdb

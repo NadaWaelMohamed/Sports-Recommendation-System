@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SportRecommendationSystemWindowsForm", "SportRecommendationSystemWindowsForm.csproj", "{9D7D81A6-A0C6-45EF-8D80-33C13AD867AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D7D81A6-A0C6-45EF-8D80-33C13AD867AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7D81A6-A0C6-45EF-8D80-33C13AD867AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7D81A6-A0C6-45EF-8D80-33C13AD867AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7D81A6-A0C6-45EF-8D80-33C13AD867AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C00F21E-1252-419A-B547-F136AEAA4FD4}
+	EndGlobalSection
+EndGlobal
